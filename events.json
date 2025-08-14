@@ -1,0 +1,58 @@
+[
+  {
+    "year": 1990,
+    "title": "World Wide Web Proposed",
+    "description": "Tim Berners-Lee proposed the World Wide Web, revolutionizing the way we access and share information.",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/5a/World_Wide_Web_logo.svg",
+    "category": "Technology"
+  },
+  {
+    "year": 2004,
+    "title": "Facebook Launched",
+    "description": "Mark Zuckerberg and co-founders launched Facebook from Harvard University.",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+    "category": "Social Media"
+  },
+  {
+    "year": 1969,
+    "title": "First Moon Landing",
+    "description": "Apollo 11 successfully landed humans on the Moon and returned them safely to Earth.",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Apollo_11_Lunar_Module_on_the_Moon.jpg",
+    "category": "Space"
+  },
+  {
+    "year": 1989,
+    "title": "Fall of the Berlin Wall",
+    "description": "The Berlin Wall fell, marking the symbolic end of the Cold War.",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Berlin_Wall_Brandenburg_Gate.jpg",
+    "category": "History"
+  },
+  {
+    "year": 2020,
+    "title": "COVID-19 Pandemic Declared",
+    "description": "The WHO declared COVID-19 a global pandemic, affecting lives worldwide.",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/37/Covid-19-variant.jpg",
+    "category": "Health"
+  },
+  {
+    "year": 2007,
+    "title": "First iPhone Released",
+    "description": "Apple released the first iPhone, changing the smartphone industry forever.",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/12/IPhone_1st_Gen.svg",
+    "category": "Technology"
+  },
+  {
+    "year": 2012,
+    "title": "Curiosity Rover Lands on Mars",
+    "description": "NASA's Curiosity rover successfully landed on Mars to explore the planet's surface.",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/56/PIA17043_-_A_Portrait_of_Curiosity.jpg",
+    "category": "Space"
+  },
+  {
+    "year": 1995,
+    "title": "Windows 95 Released",
+    "description": "Microsoft released Windows 95, introducing the Start menu and taskbar.",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Windows_logo_-_1992.svg",
+    "category": "Technology"
+  }
+]
